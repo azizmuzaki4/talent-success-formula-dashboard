@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit>=1.38.0
+pandas>=2.2.2
+numpy>=1.26.4
+plotly>=5.24.0
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# Machine Learning & Preprocessing
+scikit-learn>=1.5.2
+
+# Utility
+openpyxl>=3.1.5
+xlrd>=2.0.1
+
+# Optional: untuk ekspor & encoding
+textwrap3>=0.9.2
+
+shap>=0.45.0
